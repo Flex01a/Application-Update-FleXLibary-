@@ -1,2 +1,13 @@
-From
-Df
+
+{
+  "Update" : "OFF",
+  "download" : "Update Available!",
+  "Title" : "There Is Update!",
+  "address" : "Update Released!",
+  "dia" : "Error",
+  "version" : "3.4",
+  "Cal" : "OF", 
+  "Petten2" : "ON", 
+  "Petten" : "ON",
+  "link" : "https://"
+}
